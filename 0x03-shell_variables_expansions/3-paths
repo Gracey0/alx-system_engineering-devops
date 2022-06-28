@@ -1,0 +1,2 @@
+#!/binbash
+echo $PATH | tr ":" "\" | wc -l
